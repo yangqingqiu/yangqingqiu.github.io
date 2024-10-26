@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-10-15T03:06:58.928Z</updated>
+  <updated>2024-10-26T03:48:49.998Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page</title>
+    <link href="http://example.com/2024/10/26/page/"/>
+    <id>http://example.com/2024/10/26/page/</id>
+    <published>2024-10-26T03:48:05.000Z</published>
+    <updated>2024-10-26T03:48:49.998Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="First-post"><a href="#First-post" class="headerlink" title="First post"></a>First post</h1><h2 id="say-hello"><a href="#say-hello" class="headerlink" title="say hello"></a>say hello</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world!&quot;</span>)</span><br></pre></td></tr></table></figure><p>Hope I will write for more!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;First-post&quot;&gt;&lt;a href=&quot;#First-post&quot; class=&quot;headerlink&quot; title=&quot;First post&quot;&gt;&lt;/a&gt;First post&lt;/h1&gt;&lt;h2 id=&quot;say-hello&quot;&gt;&lt;a href=&quot;#say-hello&quot; c</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
